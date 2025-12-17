@@ -1,6 +1,9 @@
 str = "RahulShettyAcademy.com"
 str1 = "Consulting firm"
 str3 = "RahulShetty"
+str4 = "chaitanya"
+str5 = "ramya"
+
 
 print(str[1])   #a
 
