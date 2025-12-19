@@ -23,7 +23,12 @@ print(str4.lstrip())
 print(str4.rstrip())
 
 
-
+str = "RahulShettyAcademy.com"
+str1 = "Consulting firm"
+str3 = "RahulShetty"
+str4 = "chaitanya"
+str5 = "ramya"
+str6 = "Karunakar"
 
 
 

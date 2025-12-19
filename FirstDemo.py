@@ -23,6 +23,11 @@ print(type(d))
 print(type(e))
 print(type(f))
 
+print("hello")
+print("Chaitanya Ramya")
+print("i learning selenium")
+print("i have to stand myself")
+# here are the comments i have defined
 
 
 
