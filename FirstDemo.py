@@ -10,7 +10,7 @@ print(a)
 Str = "Hello World"
 print(Str)
 
-b, c, d = 5, 6.4, "Great"
+b, c, d, e, f  = 5, 6.4, "Great", "good", 6.6,
 
 #print("Value is"+b+"fdfd")
 
@@ -20,6 +20,9 @@ print(type(b))
 
 print(type(c))
 print(type(d))
+print(type(e))
+print(type(f))
+
 
 
 

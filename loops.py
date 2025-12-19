@@ -17,6 +17,9 @@ obj= [2, 3, 5, 7, 9]
 for i in obj:
     print(i*2)
 
+obj= [2, 3, 5, 7, 9]
+for i in obj:
+    print(i*4)
 
 # sum of First Natural numbers 1+2+3+4+5 = 15
 #range(i,j) -> i to j-1
